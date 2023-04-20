@@ -1,0 +1,14 @@
+index.html
+<!doctype html>
+<html class="no-js" lang="en" dir="ltr">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="x-ua-compatible" content="ie=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Data Visualization Assignment</title>
+<link rel="stylesheet" href="css/foundationinfogram.css">
+<link rel="stylesheet" href="css/app.css">
+</head>
+
+<body> 
+<h1> Complaints against Navient Solutions, LLC, have decreased since 2017 lawsuit </h1> 

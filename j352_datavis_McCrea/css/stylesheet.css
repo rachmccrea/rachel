@@ -1,0 +1,17 @@
+stylesheet.css
+
+html {
+  line-height: 1.15;
+  -webkit-text-size-adjust: 100%;}
+
+body {
+  margin: 40px; 
+  background-color: lightgray;
+font-family: 'Roboto Slab', serif;}
+
+h1 {
+  font-size: 3em;
+  margin: 30px;
+  text-align: center;
+  font-family: 'Roboto Slab', serif; }
+
