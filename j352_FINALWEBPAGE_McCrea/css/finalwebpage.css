@@ -1,0 +1,47 @@
+@charset "UTF-8";
+/**
+ * Foundation for Sites
+ * Version 6.7.5
+ * https://get.foundation
+ * Licensed under MIT Open Source
+ */
+@media print, screen and (min-width: 40em) {
+  .reveal, .reveal.tiny, .reveal.small, .reveal.large {
+    right: auto;
+    left: auto;
+    margin: 0 auto; } }
+
+
+body {
+  margin: 30px; 
+  font-size: 1em;
+font-family: 'IBM Plex Sans', sans-serif;
+color: #001400;
+}
+
+ h1 {
+  font-size: 3em;
+  margin: 0.67em 0; 
+font-family: 'IBM Plex Sans', sans-serif;
+color: #001400;
+}
+
+.accentbox {
+  background-color: #aef359;
+  font-size: 1em;
+ font-family: 'IBM Plex Sans', sans-serif; color: #001400;}
+
+.line {
+  border: 2px; border-color: #12610E; height: 2px; width: 100%;
+}
+
+.pullquote {
+  font-family: 'IBM Plex Sans', sans-serif;
+  font-size: 3.0rem;
+  color: #12610E;
+}
+
+blockquote { 
+color: #12610E;
+font-family: 'IBM Plex Sans', sans-serif;
+  }
